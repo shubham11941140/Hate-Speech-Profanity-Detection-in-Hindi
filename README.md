@@ -62,6 +62,30 @@ It is combined to form a single file (compiled_LSTM_Dataset.csv) and then used f
 
 ### LSTM Approach
 
+#### Input
+
+![image](https://user-images.githubusercontent.com/63910248/205917112-29b0de76-5969-4361-8a01-457d622926d9.png)
+
+#### Labels
+
+![image](https://user-images.githubusercontent.com/63910248/205917463-0b59da59-522d-4f11-a121-1f495e319615.png)
+
+#### RNN Architecture
+
+![image](https://user-images.githubusercontent.com/63910248/205917617-c1f65d47-3c36-4c6a-b7d2-f852bef13aa8.png)
+
+#### Epoch Loss Values
+
+![image](https://user-images.githubusercontent.com/63910248/205917840-1271c9c8-1150-4778-91da-f1cbbee711ac.png)
+
+#### Test Loss/Accuracy
+
+![image](https://user-images.githubusercontent.com/63910248/205917982-dd928c1f-8359-4553-a43f-53e40693e4a4.png)
+
+#### Predictions
+
+![image](https://user-images.githubusercontent.com/63910248/205918105-3f058a59-27fd-46f5-a187-e624a6101616.png)
+
 ## Slides
 
 Hate_Speech_Detection_Classification-Hindi(Lexicon Approach + LSTM).pptx
