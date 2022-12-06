@@ -1,8 +1,10 @@
 # Hate-Speech-Profanity-Detection-in-Hindi
-Implemented a Multi-Class Hindi Hate Speech Classification Task using Lexicon and LSTM Approach
 
-### We have implemented a Multi-Class Hindi Hate Speech Classification Task using 2 approaches:
-#### 1. Lexicon-based approach
+## Implemented a Multi-Class Hindi Hate Speech Classification Task using Lexicon and LSTM Approach
+
+#### We have implemented a Multi-Class Hindi Hate Speech Classification Task using 2 approaches:
+
+### 1. Lexicon-based approach
 
 **Dataset.csv** - Dataset for the task (https://github.com/mohit19014/Hindi-Hostility-Detection-CONSTRAINT-2021)
 
@@ -17,7 +19,7 @@ b) themenouns.txt - Theme Nouns
 c) Synset.txt - Synonyms
 ```
 
-#### 2. LSTM based approach (Using Deep Learning)
+### 2. LSTM based approach (Using Deep Learning)
 
 Dataset folder contains the dataset for the task (train.csv, test.csv, valid.csv)
 
@@ -39,6 +41,8 @@ It is combined to form a single file (compiled_LSTM_Dataset.csv) and then used f
 
 **Hate_Speech_Detection_Classification_LSTM.ipynb** - Jupyter Notebook for the task
 
-Results:
+##  Results
 
-#### Slides - Hate_Speech_Detection_Classification-Hindi(Lexicon Approach + LSTM).pptx
+## Slides
+
+Hate_Speech_Detection_Classification-Hindi(Lexicon Approach + LSTM).pptx
