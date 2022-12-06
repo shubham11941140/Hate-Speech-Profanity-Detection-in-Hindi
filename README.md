@@ -89,3 +89,32 @@ It is combined to form a single file (compiled_LSTM_Dataset.csv) and then used f
 ## Slides
 
 Hate_Speech_Detection_Classification-Hindi(Lexicon Approach + LSTM).pptx
+
+## References
+
+1. Hindi Sentiment Analysis WordNet - https://www.cfilt.iitb.ac.in/wordnet/webhwn/downloaderInfo.php?lang=hi
+2. Dataset for the task - https://github.com/mohit19014/Hindi-Hostility-Detection-CONSTRAINT-2021
+3. Research Paper - https://gvpress.com/journals/IJMUE/vol10_no4/21.pdf
+
+## Web Links
+
+1. https://www.analyticsvidhya.com/blog/2021/10/hands-on-hindi-text-analysis-using-natural-language-processing-nlp/
+2. https://pypi.org/project/indic-nlp-library/
+3. https://www.analyticsvidhya.com/blog/2020/01/3-important-nlp-libraries-indian-languages-python/
+4. https://arxiv.org/pdf/2101.05494v1.pdf
+5. https://www.kaggle.com/abhinavwalia95/entity-annotated-corpus
+
+## GitHub
+
+1. https://github.com/kamalojasv181/Hostility-Detection-in-Hindi-Posts
+2. https://github.com/victorknox/Hate-Speech-Detection-in-Hindi
+3. https://github.com/NakulLakhotia/Hate-Speech-Detection-in-Social-Media-using-Python
+4. https://github.com/ecanbazer/hatred-speech-classifier
+5. https://github.com/manikbhandari/hindi-word-embeddings
+6. https://github.com/datascisteven/Automated-Hate-Tweet-Detection/tree/main/py
+7. https://github.com/hate-alert/HateCheckHIn
+8. https://github.com/punyajoy/HateSpeech-Hindi-English-Code-Mixed-Social-Media-Text
+9. https://github.com/victor7246/Hinglish_Hate_Detection
+10. https://github.com/pmathur5k10/Hinglish-Offensive-Text-Classification
+11. https://github.com/udacity/deep-learning-v2-pytorch/tree/master/sentiment-rnn
+12. https://github.com/kopalgarg/hate_speech_classification
