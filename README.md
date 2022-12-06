@@ -6,6 +6,16 @@
 
 ### 1. Lexicon-based approach
 
+### Full-fledged Paper Implementation
+**A Lexicon-based approach for Hate Speech Detection** - https://gvpress.com/journals/IJMUE/vol10_no4/21.pdf
+
+```
+Rule based approach to apply sentiment/subjectivity analysis - Identification of polarity of sentiment expressions
+Extract lexical features to build a lexicon -> Fed into a classifier
+Testing on real-world web discourse
+```
+
+
 **Dataset.csv** - Dataset for the task (https://github.com/mohit19014/Hindi-Hostility-Detection-CONSTRAINT-2021)
 
 **Hate_Speech_Detection_Classification_Lexicon.ipynb** - Jupyter Notebook for the task
