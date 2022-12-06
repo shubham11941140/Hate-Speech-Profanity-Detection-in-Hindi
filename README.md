@@ -43,6 +43,25 @@ It is combined to form a single file (compiled_LSTM_Dataset.csv) and then used f
 
 ##  Results
 
+### Lexicon Approach
+
+#### Scores - Without Subjectivity Analysis
+
+![image](https://user-images.githubusercontent.com/63910248/205916298-1118d060-8bc3-4eec-a9b9-e55ba020deb5.png)
+
+
+#### Scores - With Subjectivity Analysis
+
+![image](https://user-images.githubusercontent.com/63910248/205916356-b6ae2595-ebaa-46b7-9da7-5b6cbb5774c0.png)
+
+
+#### Sentence Number, Sentence, Output Class, Hate Score (Scale 1-5)
+
+![image](https://user-images.githubusercontent.com/63910248/205915490-183a2d14-238a-46b2-bc5a-a2c4608bb5c5.png)
+
+
+### LSTM Approach
+
 ## Slides
 
 Hate_Speech_Detection_Classification-Hindi(Lexicon Approach + LSTM).pptx
